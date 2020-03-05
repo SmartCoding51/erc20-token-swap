@@ -7,7 +7,7 @@
     "test": "npx hardhat test",
     "deploy": "npx hardhat run --network ropsten scripts/deploy.ts"
   },
-  "author": "",
+  "author": "Kei Nakano",
   "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
